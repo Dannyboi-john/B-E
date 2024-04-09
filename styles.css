@@ -1,0 +1,23 @@
+html {
+  background: linear-gradient(to right, #8c52ff, #5de0e6);
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.title-bar {
+  font-family: 'Poppins';
+  font-size: 5vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
